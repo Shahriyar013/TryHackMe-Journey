@@ -5,3 +5,4 @@ My learning progress on TryHackMe with room links and summaries
 [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro)
 [Careers In Cyber](https://tryhackme.com/room/careersincyber)
 [What Is Networking?](https://tryhackme.com/room/whatisnetworking)
+[Cyber Security Principles](https://tryhackme.com/room/securityprinciples)
