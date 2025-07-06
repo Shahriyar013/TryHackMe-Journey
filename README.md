@@ -8,4 +8,5 @@ My learning progress on TryHackMe with room links and summaries
 [Cyber Security Principles](https://tryhackme.com/room/securityprinciples)
 [Governance & Regulation](https://tryhackme.com/room/cybergovernanceregulation)
 https://tryhackme.com/room/nmap01
+https://tryhackme.com/room/linuxfundamentalspart1
 
