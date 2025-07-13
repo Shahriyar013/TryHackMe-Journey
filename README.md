@@ -17,3 +17,4 @@ https://tryhackme.com/room/httpindetail
 https://tryhackme.com/room/howwebsiteswork
 https://tryhackme.com/room/puttingitalltogether
 https://tryhackme.com/room/searchskills
+https://tryhackme.com/room/webapplicationbasics
