@@ -19,3 +19,4 @@ https://tryhackme.com/room/puttingitalltogether
 https://tryhackme.com/room/searchskills
 https://tryhackme.com/room/webapplicationbasics
 https://tryhackme.com/room/securityengineerintro
+https://tryhackme.com/room/aimlsecuritythreats
