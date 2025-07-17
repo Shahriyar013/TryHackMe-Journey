@@ -20,3 +20,4 @@ https://tryhackme.com/room/searchskills
 https://tryhackme.com/room/webapplicationbasics
 https://tryhackme.com/room/securityengineerintro
 https://tryhackme.com/room/aimlsecuritythreats
+https://tryhackme.com/room/jrsecanalystintrouxo
